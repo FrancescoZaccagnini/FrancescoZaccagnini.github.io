@@ -24,8 +24,7 @@ navbar-links:
   Contacts: "contacts"
   CV: "cv"
   Project:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Repository Github: "https://github.com/FrancescoZaccagnini?tab=repositories"
 
 ################
 # --- Logo --- #
