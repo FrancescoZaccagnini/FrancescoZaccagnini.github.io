@@ -22,9 +22,9 @@ Istruzione e formazione:
     15/09/2014 – 27/06/2019
     Pisa, Italia
 
-    Laurea Infromatica
-    Universita' di Pisa
+    Laurea in Infromatica presso Universita' di Pisa
     01/10/2019 – Attuale
+    Pisa, Italia
 
 Competenze linguistiche:
 
