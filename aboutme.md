@@ -17,7 +17,3 @@ Ma la mia tenacia non si limita solo allo sport e agli studi. Ho imparato che la
  Credo nell'importanza di costruire relazioni significative e di essere lì per gli altri nei momenti di bisogno.
 
  Sono grato per le esperienze che mi hanno reso più forte e più resistente, e sono entusiasta di ciò che il futuro mi riserva. Sono qui per dimostrare che con la tenacia e la determinazione, tutto è possibile.
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
