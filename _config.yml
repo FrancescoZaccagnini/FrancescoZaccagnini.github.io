@@ -13,7 +13,7 @@
 title: Francesco Zaccagnini
 
 # Your name to show in the footer
-author: Some Person
+author: Francesco Zaccagnini
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -55,6 +55,7 @@ social-network-links:
   facebook: francescozaccagnini
   github: francescozaccagnini
   whatsapp: 3464168163
+  telegram: @zacca24
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -96,7 +97,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "francescozaccagnini.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
