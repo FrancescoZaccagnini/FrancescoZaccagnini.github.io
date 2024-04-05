@@ -5,8 +5,7 @@ title: Curriculum vitae
 
 Esperienza lavorativa:
 
-    Consulente informatico
-    Assiconsult di Silvia Burla & C.S.a.S.
+    Consulente informatico presso Assiconsult di Silvia Burla & C.S.a.S.
     01/10/2023 – 31/01/2024
     Navacchio, Italia
     Responsabilità:
@@ -16,7 +15,7 @@ Esperienza lavorativa:
 
 Istruzione e formazione:
 
-    Diploma presso I.I.S. "L. da Vinci - Fascetti"
+    Diploma di Telecomunicazioni presso I.I.S. "L. da Vinci - Fascetti"
     15/09/2014 – 27/06/2019
     Pisa, Italia
 
