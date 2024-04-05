@@ -52,8 +52,7 @@ round-avatar: true
 social-network-links:
   email: "francesco.zaccagnini00@gmail.com"
   instagram: francesco.zaccagnini
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  facebook: francescozaccagnini
   github: francescozaccagnini
   whatsapp: 3464168163
 #  medium: yourname
