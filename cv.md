@@ -9,12 +9,10 @@ Esperienza lavorativa:
     Assiconsult di Silvia Burla & C.S.a.S.
     01/10/2023 – 31/01/2024
     Navacchio, Italia
-
     Responsabilità:
-
-        Manutenzione di computer, stampanti e NAS
-        Creazione di un nuovo archivio clienti nel portale OMNIA8
-        Implementazione delle comunicazioni di massa
+            Manutenzione di computer, stampanti e NAS
+            Creazione di un nuovo archivio clienti nel portale OMNIA8
+            Implementazione delle comunicazioni di massa
 
 Istruzione e formazione:
 
@@ -32,5 +30,5 @@ Competenze linguistiche:
 
 Competenze digitali:
 
-    Certificato ECDL Standard (Numero di skills Card IT 2400554)
+    Certificato ECDL Standard
 
