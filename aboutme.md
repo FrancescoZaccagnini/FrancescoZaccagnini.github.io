@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
 Mi chiamo Francesco Zaccagnini, e mi considero una persona tenace, determinata a raggiungere i miei obiettivi sia nello sport, negli studi e nella vita in generale.
